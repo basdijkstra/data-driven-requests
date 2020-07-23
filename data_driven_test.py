@@ -19,6 +19,6 @@ def test_gpv(path):
     auth = ('admin', 'admin')
     endpoint = f'{base_url}{path[0]}'
     print(f'Endpoint: {endpoint}')
-    # response = requests.get(endpoint, auth=auth, headers=headers)
-    # assert response.status_code == 200
+    response = requests.get(endpoint, auth=auth, headers=headers)
+    assert response.status_code == 200
 
