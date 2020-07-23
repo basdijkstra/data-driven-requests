@@ -1,0 +1,4 @@
+/restconf/config/network-topology:network-topology/topology/topology-netconf/node/0005B94238A0/yang-ext:mount/onecell:device/device-info
+/restconf/config/network-topology:network-topology/topology/topology-netconf/node/0005B94238A0/yang-ext:mount/onecell:device/management-server
+/restconf/config/network-topology:network-topology/topology/topology-netconf/node/0005B94238A0/yang-ext:mount/onecell:device/services/fap-service/1/cell-config/lte/epc
+/restconf/config/network-topology:network-topology/topology/topology-netconf/node/0005B94238A0/yang-ext:mount/onecell:device/time/x-0005b9-ntp/stats
